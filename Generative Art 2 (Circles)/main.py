@@ -3,7 +3,7 @@ import turtle
 import random
 
 t=turtle.Turtle()
-t.speed(-500)
+t.speed(0)
 t.ht()
 t.screen.bgcolor("black")
 colours = ["cyan2", "DarkOrchid1", "blue", "plum1", "SpringGreen"]
